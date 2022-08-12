@@ -1,3 +1,4 @@
+i made a change lol
 - [My notes](#my-notes)
   - [Variables](#variables)
   - [Data types, built-ins, int, string, float](#data-types-built-ins-int-string-float)
