@@ -14,6 +14,7 @@ int RecursiveFibonacci(int count)
 
 for (;;) {
     String input = Console.ReadLine(); 
+    if (input == "") continue;
     int lastFibo = RecursiveFibonacci(int.Parse(input));
     Console.WriteLine("The fibo number to " + input + " is " + lastFibo);
 }
