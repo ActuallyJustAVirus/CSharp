@@ -1,8 +1,8 @@
 i made a change lol
 - [My notes](#my-notes)
   - [Variables](#variables)
-  - [Data types, built-ins, int, string, float](#data-types-built-ins-int-string-float)
-  - [Operators; +, -, /, *, %, ++, --](#operators----------)
+  - [Data types, built-ins, int, string, float, bool](#data-types-built-ins-int-string-float-bool)
+  - [Operators; +, -, /, *, %, ++, --, +=](#operators-----------)
   - [Boolean logic, if, else, switch, and, or](#boolean-logic-if-else-switch-and-or)
   - [Arrays and lists](#arrays-and-lists)
   - [Loops](#loops)
@@ -10,9 +10,8 @@ i made a change lol
   - [Methods](#methods)
     - [Return](#return)
     - [Parameters/Arguments](#parametersarguments)
-    - [Scope](#scope)
   - [Classes and OOP](#classes-and-oop)
-    - [Scope](#scope-1)
+    - [Scope](#scope)
     - [Static](#static)
     - [Constructors](#constructors)
     - [Objects](#objects)
@@ -41,10 +40,14 @@ string ThisIsAStringVariableWithAvalue = "This is the string variables value";
 string ThisIsAlsoAString;
 ```
 
+Addresser i hukommelsen benytter ofte hexidecimal (16-tals system)
+
+![Variables](1_Basics/Media/csharp_value_type_memory_allocation_example.png)
+
 
 ## Data types, built-ins, int, string, float, bool
 
-## Operators; +, -, /, *, %, ++, --
+## Operators; +, -, /, *, %, ++, --, +=
 
 ## Boolean logic, if, else, switch, and, or
 
@@ -59,8 +62,6 @@ string ThisIsAlsoAString;
 ### Return
 
 ### Parameters/Arguments
-
-### Scope
 
 ## Classes and OOP
 
@@ -94,5 +95,6 @@ string ThisIsAlsoAString;
 
 https://www.w3schools.com/cs/index.php
 
-https://dotnet.microsoft.com/en-us/learn/csharp
+https://www.youtube.com/c/Brackeys/playlists (C# playliste 8 afsnit af ca. 15 minutter)
 
+https://dotnet.microsoft.com/en-us/learn/csharp
